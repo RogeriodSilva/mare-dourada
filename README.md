@@ -1,3 +1,3 @@
-composer
+composer 2.8.10
 <br/>
-npm
+npm 10.9.2
