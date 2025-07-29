@@ -1,0 +1,41 @@
+@import url("https://use.typekit.net/bod0ekc.css");
+@import url("https://use.typekit.net/ssf5ihr.css");
+
+.v {
+    border: 1px solid red;
+}
+
+.f-raleway {
+    font-family: "raleway", sans-serif;
+    font-style: normal;
+}
+
+.f-lato {
+    font-family: "lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.f-corm {
+    font-family: "cormorant-garamond", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.f-seasons {
+    font-family: "the-seasons", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.f-filosofia {
+    font-family: "filosofia", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.f-ivy {
+    font-family: "ivyora-display", serif;
+    font-weight: 500;
+    font-style: normal;
+}
